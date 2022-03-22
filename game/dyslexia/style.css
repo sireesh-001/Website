@@ -19,7 +19,15 @@ body{
     align-items: center;
 } */
 
-
+#container {
+    /* margin-top: 50px ;
+    /* margin: 0px auto;*/
+     width: 500px;
+     height: 375px;
+    /* border: 10px #333 solid; */
+     background-image: url(snapshots/download.jpg);
+     
+ }
 
 ::selection{
     color: #fff;
